@@ -1,0 +1,18 @@
+Steps to start a free VM in Azure cloud:-
+
+1.Login to MS Azure portal
+2.Click on “Virtual machines” under the “Azure services” tab on the home page
+3.When you enter the “Virtual machines” page click on “create”
+4.Choose the option “Azure Virtual Machines”
+5.You will be directed to the “create virtual machine” page
+6.Under the “Basics” tab fill in the required fields:
+          -Virtual machine name
+          - Region
+          - Image
+          - Size
+          - Authentication type
+          - Username 
+          - Select required Inbound ports
+7.Set other fields as default or change them as your need
+8.Then click on Review+Create
+9.Your cloud VM is now created
